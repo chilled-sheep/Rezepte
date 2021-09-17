@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Willkommen im Rezeptbuch
 
-You can use the [editor on GitHub](https://github.com/chilled-sheep/Rezepte/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hier entsteht das Familienkochbuch
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bei Fragen zur Funktion der Webseite oder wie weitere Rezepte hinzugefügt werden können an Philipp wenden.
 
-### Markdown
+## Struktur
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Die Struktur der Rezepte sieht folgendermaßen aus:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Name des Rezeptes (eventuell von wem es stammt)
 
-- Bulleted
-- List
+Foto wenn vorhanden.
 
-1. Numbered
-2. List
+Portionenzahl, Dauer und Hashtags für Gruppen wie Vegan, Buffet, Afghanisch, ...
 
-**Bold** and _Italic_ and `Code` text
+Zutatenliste, Zubereitung
 
-[Link](url) and ![Image](src)
-```
+Bsp.
+## Apple Crumble 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](src)
 
-### Jekyll Themes
+Einfach, 20 min zubereiten, 30 min backen, 4 Portionen, #Dessert #Ofen #Apfel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chilled-sheep/Rezepte/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Zutaten | Zubereitung
+--------------------|----------------------------------------
+500g Äpfel | Äpfel schälen, klein schneiden. 
+250g Butter | Butter und Zucker zu streuseln kneten
+200g Zucker | Äpfel in Backform geben, mit Zimt bestreuen und Streusel drüber streuen
+1 TL Zimt | 30 min bei 200° Umluft backen
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
